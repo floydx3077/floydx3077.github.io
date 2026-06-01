@@ -1,0 +1,23 @@
+body {
+    background-color: #000435;
+    color: azure;
+    font-size: 1.1em;
+}
+h1 {
+    color: red;
+}
+h2{
+    color: #d9b90f;
+}
+h3{
+    color:gold;
+}
+a{
+    color: #7DF9FF;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: orange;
+}
